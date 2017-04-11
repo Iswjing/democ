@@ -1,0 +1,31 @@
+body{
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+/*footer*/
+footer {
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+.progress{
+    margin-bottom: 25px;
+}
+.wh64 {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+.t15{
+    margin-top: 15px;
+}
+.page-header, .page-header h3{margin: 0 0 20px 0;padding: 0;}
+.page-header h3{font-size: 16px;}
+
+.form11{padding: 10px;border: 1px solid #dddddd;border-top: none;}
+form.form22 {
+    padding-top: 10px;
+}
+.alert-warning {background-color: #bce8f1; color: #31708f;}
+
+h1{ font-size: 18px;}
+.alert.alert-warning.alert-dismissible.pull-left {  margin: 10px 10px 0 0;}
